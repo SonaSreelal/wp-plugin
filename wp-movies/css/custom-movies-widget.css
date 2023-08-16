@@ -1,0 +1,16 @@
+.widget_custom_movies_widget li {
+    text-transform: capitalize;
+}
+
+.widget_custom_movies_widget li strong {
+    text-transform: uppercase;
+}
+
+.widget_custom_movies_widget li img {
+    max-width: 100%;
+    height: auto;
+}
+
+.widget_custom_movies_widget li.movie {
+    margin-bottom: 10px;
+}
